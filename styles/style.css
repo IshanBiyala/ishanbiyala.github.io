@@ -5,11 +5,11 @@ html {
 }
 
 body {
-  width: 100vw;
-  height: 100vh;
-  margin: 0 auto;
+  width: 100vw; /* changed to 100vw to fill the full width */
+  height: 100vh; /* added to fill the full height */
+  margin: 0; /* removed margin */
+  padding: 0; /* removed padding */
   background-color: #ff9500;
-  padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
 
