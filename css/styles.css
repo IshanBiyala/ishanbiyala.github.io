@@ -3502,6 +3502,7 @@ td:last-child {
 .s-pagecontent {
   padding-top: var(--vspace-4);
   padding-bottom: var(--vspace-3);
+  background-color: var(--color-2-dark);
 }
 
 .s-pagecontent .pageintro {
